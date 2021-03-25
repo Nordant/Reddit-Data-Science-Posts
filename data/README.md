@@ -1,4 +1,9 @@
+### [Click to download the dataset](https://www.kaggle.com/maksymshkliarevskyi/reddit-data-science-posts/download)
+
+### [Reddit-Data-Science-Posts Dataset on Kaggle](https://www.kaggle.com/maksymshkliarevskyi/reddit-data-science-posts)
+
 ### **This dataset includes over 500,000 posts from 19 Date Science subreddits:**
+
 1. [r/analytics](https://www.reddit.com/r/analytics/) (reddit_Analytics.csv), 
 2. [r/deeplearning](https://www.reddit.com/r/deeplearning/) (reddit_DL.csv), 
 3. [r/datascience](https://www.reddit.com/r/datascience/) (reddit_DS.csv), 
