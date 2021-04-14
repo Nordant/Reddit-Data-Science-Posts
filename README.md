@@ -20,7 +20,9 @@ Data were collected from [pushshift.io API](https://pushshift.io) (maintained by
 
 If you know of any interesting Data Science subreddits, please, let me know in discussions.
 
-### **19 datasets (one per one subreddit) include the following data:**
+### **You can find the code for parsing subreddits in the `Reddit_parser.py` script.**
+
+## **19 datasets (one per one subreddit) include the following data:**
 
 | column | description |
 | --- | --- |
